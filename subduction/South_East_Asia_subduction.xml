@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+  <sourceModel name="South East Asia subduction interface fault model">
+    <complexFaultSource id="1" name="Sumatra Interface, GR, exclude Java-Sumba. Also excl. burma plate" tectonicRegion="Subduction Interface">
+      <complexFaultGeometry>
+        <faultTopEdge>
+          <gml:LineString>
+            <gml:posList>92.7 14.9 5.0 92.14833959 13.66770451 5.0 91.56807859 10.30064251 5.0 93.22699759 3.716000503 5.0 96.0882512 1.4869995 5.0 102.4520036 -7.197 5.0 104.0 -7.978 5.0</gml:posList>
+          </gml:LineString>
+        </faultTopEdge>
+        <faultBottomEdge>
+          <gml:LineString>
+            <gml:posList>93.5428 14.0 50.0 93.31859165 13.42208668 50.0 92.89230113 10.43153688 50.0 94.61522532 4.691394861 50.0 96.87101265 2.728670788 50.0 103.4785157 -5.594179503 50.0 105.0 -6.4801 50.0</gml:posList>
+          </gml:LineString>
+        </faultBottomEdge>
+      </complexFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="7.1">
+        <occurRates>0.00564734387682 0.00452110125358 0.00361946376757 0.00289763870127 0.00231976629199 0.00185713824401 0.0014867715206 0.00119026656286 0.000952893212601 0.000762858928372 0.000610722940305 0.000488927239288 0.000391421100374 0.000313360487014 0.000250867402723 0.000200837234933 0.00016078452002 0.000128719467217 0.000103049107207 8.24981545192e-05 6.60456522483e-05</occurRates>
+      </incrementalMFD>
+      <rake>90.0</rake>
+    </complexFaultSource>
+    <complexFaultSource id="2" name="Sumatra Megathrust, southern Sumatra only, 333 yr recur" tectonicRegion="Subduction Interface">
+      <complexFaultGeometry>
+        <faultTopEdge>
+          <gml:LineString>
+            <gml:posList>96.0882512 1.4869995 5.0 102.4520036 -7.197 5.0 104.0 -7.978 5.0</gml:posList>
+          </gml:LineString>
+        </faultTopEdge>
+        <faultBottomEdge>
+          <gml:LineString>
+            <gml:posList>96.87101265 2.728670788 50.0 103.4785157 -5.594179503 50.0 105.0 -6.4801 50.0</gml:posList>
+          </gml:LineString>
+        </faultBottomEdge>
+      </complexFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="9.2">
+        <occurRates>0.00220864458029</occurRates>
+      </incrementalMFD>
+      <rake>90.0</rake>
+    </complexFaultSource>
+    <complexFaultSource id="3" name="1 Java-Sumba GR 104 years for M7.7 or greater" tectonicRegion="Subduction Interface">
+      <complexFaultGeometry>
+        <faultTopEdge>
+          <gml:LineString>
+            <gml:posList>104.0 -7.978 5.0 108.363 -10.178 5.0 110.0 -10.3 5.0 120.886 -11.493 5.0</gml:posList>
+          </gml:LineString>
+        </faultTopEdge>
+        <faultBottomEdge>
+          <gml:LineString>
+            <gml:posList>105.0 -6.4801 50.0 108.718 -8.645 50.0 110.0 -9.3 50.0 120.974 -9.81 50.0</gml:posList>
+          </gml:LineString>
+        </faultBottomEdge>
+      </complexFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="7.1">
+        <occurRates>0.00659820544634 0.00512537721524 0.0039813085258 0.00309261482852 0.00240229221513 0.00186606098945 0.00144952541344 0.00112596744484 0.000874632948886 0.000679400455832 0.000527747073756 0.000409945226658 0.000318438693868 0.000247357927739 0.00019214356042 0.000149253950129 0.000115938007917 9.00587332407e-05 6.99561393077e-05 5.43407757442e-05 4.22110187569e-05 3.27888234958e-05</occurRates>
+      </incrementalMFD>
+      <rake>90.0</rake>
+    </complexFaultSource>
+    <complexFaultSource id="4" name="N Sumatra Megathrust, exclude S Sumatra and Java-Sumba" tectonicRegion="Subduction Interface">
+      <complexFaultGeometry>
+        <faultTopEdge>
+          <gml:LineString>
+            <gml:posList>92.1875 20.3615 5.0 93.68470752 17.42919239 5.0 92.14833959 13.66770451 5.0 91.56807859 10.30064251 5.0 93.22699759 3.716000503 5.0 96.0882512 1.4869995 5.0</gml:posList>
+          </gml:LineString>
+        </faultTopEdge>
+        <faultBottomEdge>
+          <gml:LineString>
+            <gml:posList>92.75 21.1325 50.0 94.59746321 17.094216 50.0 93.31859165 13.42208668 50.0 92.89230113 10.43153688 50.0 94.61522532 4.691394861 50.0 96.87101265 2.728670788 50.0</gml:posList>
+          </gml:LineString>
+        </faultBottomEdge>
+      </complexFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="9.2">
+        <occurRates>0.000667</occurRates>
+      </incrementalMFD>
+      <rake>90.0</rake>
+    </complexFaultSource>
+  </sourceModel>
+</nrml>

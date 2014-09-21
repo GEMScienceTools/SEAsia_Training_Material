@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml"
+      xmlns="http://openquake.org/xmlns/nrml/0.4">
+    <logicTree logicTreeID='lt1'>
+
+        <logicTreeBranchingLevel branchingLevelID="bl1">
+            <logicTreeBranchSet uncertaintyType="gmpeModel" branchSetID="bs1"
+                    applyToTectonicRegionType="Subduction Interface">
+<!--
+    GMPEs and weights for subduction interface model as defined in USGS
+    input files
+-->
+                <logicTreeBranch branchID="Zhao_et_al_2006">
+                    <uncertaintyModel>ZhaoEtAl2006SInterNSHMP2008</uncertaintyModel>
+                    <uncertaintyWeight>0.5</uncertaintyWeight>
+                </logicTreeBranch>
+
+                <logicTreeBranch branchID="Atkinson_Boore_2003">
+                    <uncertaintyModel>AtkinsonBoore2003SInterNSHMP2008</uncertaintyModel>
+                    <uncertaintyWeight>0.25</uncertaintyWeight>
+                </logicTreeBranch>
+
+                <logicTreeBranch branchID="Youngs_et_al_1997">
+                    <uncertaintyModel>YoungsEtAl1997SInterNSHMP2008</uncertaintyModel>
+                    <uncertaintyWeight>0.25</uncertaintyWeight>
+                </logicTreeBranch>
+
+            </logicTreeBranchSet>
+        </logicTreeBranchingLevel>
+
+    </logicTree>
+</nrml>

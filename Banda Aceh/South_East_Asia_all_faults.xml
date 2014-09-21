@@ -1,0 +1,1189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+  <sourceModel name="South East Asia active shallow crust fault model">
+    <characteristicFaultSource id="1" name="Great Sumatra Fault Seg 1-Sunda" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.256">
+        <occurRates>7.25703600381e-05 0.000108262255422 0.000137628300217 0.000149090957771 0.000137628300217 0.000108262255422 7.25703600381e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>104.75337 -6.713941 104.834854 -6.419172 104.84204 -6.203487 104.83246 -6.107628 104.74601 -5.9</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="2" name="Great Sumatra Fault Seg 3-Semangko" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.156">
+        <occurRates>8.77215924104e-05 0.000130865238074 0.000166362322708 0.000180218152738 0.000166362322708 0.000130865238074 8.77215924104e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>104.32527 -5.31518 104.64553 -5.721793 104.74601 -5.9</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="3" name="Great Sumatra Fault Seg 9-Kumering" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.456">
+        <occurRates>6.46325072457e-05 9.64203705795e-05 0.000122574314173 0.000132783169373 0.000122574314173 9.64203705795e-05 6.46325072457e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>103.2501 -4.331728 103.43369 -4.401579 103.51807 -4.488598 103.61108 -4.543905 104.00182 -4.894613 104.04488 -4.951804 104.21378 -5.091235 104.31767 -5.232101 104.32527 -5.31518</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="4" name="Great Sumatra Fault Seg 2-Manna" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.156">
+        <occurRates>9.36717627997e-05 0.000139741849216 0.00017764670708 0.000192442380395 0.00017764670708 0.000139741849216 9.36717627997e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>102.6923 -3.801898 103.03143 -4.126929 103.14065 -4.250334 103.2501 -4.331728</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="5" name="Great Sumatra Fault Seg 4-Musi" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.056">
+        <occurRates>9.98995159299e-05 0.000149032565147 0.000189457521813 0.000205236883254 0.000189457521813 0.000149032565147 9.98995159299e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>102.6923 -3.801898 102.47847 -3.50022 102.4543 -3.434594 102.38036 -3.355955 102.38898 -3.323064</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="6" name="Great Sumatra Fault Seg - Ketaun" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.156">
+        <occurRates>9.59242794273e-05 0.000143102209153 0.000181918561795 0.000197070025363 0.000181918561795 0.000143102209153 9.59242794273e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>101.8892 -2.741878 102.00013 -2.820193 102.22068 -3.093715 102.27167 -3.1352 102.34335 -3.245077 102.39771 -3.289682 102.38898 -3.323064</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="7" name="Great Sumatra Fault Seg 6 - Dikit" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.156">
+        <occurRates>8.07521446203e-05 0.000120468043732 0.000153144898235 0.000165899887739 0.000153144898235 0.000120468043732 8.07521446203e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>101.8892 -2.741878 101.77998 -2.621504 101.79084 -2.601837 101.75243 -2.584251 101.65154 -2.476657 101.50146 -2.290818 101.543945 -2.263701</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="8" name="Great Sumatra Fault Seg 10-Siulak" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.156">
+        <occurRates>9.05864492822e-05 0.000135139102311 0.000171795468988 0.00018610380984 0.000171795468988 0.000135139102311 9.05864492822e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>101.543945 -2.263701 101.58513 -2.231424 101.30405 -1.899778 101.17098 -1.702897 101.18077 -1.685414</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="9" name="Great Sumatra Fault Seg 11-Suliti" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.256">
+        <occurRates>7.12213732192e-05 0.000106249803568 0.000135069972508 0.000146319554449 0.000135069972508 0.000106249803568 7.12213732192e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>101.18077 -1.685414 101.1768 -1.650953 100.88968 -1.236484 100.81638 -1.156692 100.72853 -0.999921</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="10" name="Great Sumatra Fault Seg 12-Sumani" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="6.956">
+        <occurRates>0.000108579753567 0.000161981958036 0.00020591942652 0.000223069851732 0.00020591942652 0.000161981958036 0.000108579753567</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>100.72853 -0.999921 100.52821 -0.599994</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="11" name="Great Sumatra Fault Seg 13-Sianok" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.056">
+        <occurRates>0.000110824425975 0.000165330615772 0.000210176404822 0.000227681381274 0.000210176404822 0.000165330615772 0.000110824425975</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>100.52821 -0.599994 100.21146 -0.096946 100.2258 -0.048636</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="12" name="Great Sumatra Fault Seg 14-Sumpur/Barumun" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.556">
+        <occurRates>9.69614596119e-05 0.000144649500168 0.000183885554184 0.000199200842779 0.000183885554184 0.000144649500168 9.69614596119e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>99.49942 1.2174 99.65482 1.078532 99.7739 0.922441 99.985374 0.704888 100.05756 0.575256 100.11024 0.397804 100.10793 0.284784 100.23428 0.022474 100.2258 -0.048636</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="13" name="Great Sumatra Fault Seg 15-Toru" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.256">
+        <occurRates>0.000203962746429 0.000304276662521 0.000386811448692 0.000419027839997 0.000386811448692 0.000304276662521 0.000203962746429</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>98.978836 2.027931 99.15463 1.714492 99.27382 1.5632 99.49942 1.2174</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="14" name="Great Sumatra Fault Seg 16-Renun" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.556">
+        <occurRates>0.000133266960275 0.000198810942718 0.000252738242005 0.000273788069071 0.000252738242005 0.000198810942718 0.000133266960275</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>97.8595 3.400014 97.93303 3.254578 98.08633 3.107125 98.24556 2.890065 98.866424 2.182985 98.978836 2.027931</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="15" name="Great Sumatra Fault Seg 16- Tripa" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.556">
+        <occurRates>0.000122926278701 0.000183384458556 0.000233127337121 0.000252543829425 0.000233127337121 0.000183384458556 0.000122926278701</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>96.6359 4.388539 96.67129 4.371481 96.738235 4.37307 96.80359 4.34623 96.844573 4.308815 96.84227 4.279514 96.869255 4.249629 97.08314 4.08201 97.31013 3.964467 97.393615 3.890242 97.549 3.819142 97.74073 3.634925 97.8595 3.400014</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="16" name="Great Sumatra Fault Seg 7 Aceh (South)" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.256">
+        <occurRates>0.000199498442947 0.000297616704329 0.000378344982499 0.000409856226661 0.000378344982499 0.000297616704329 0.000199498442947</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>95.92704 5.004757 96.13009 4.822076 96.37694 4.568221 96.4443 4.529559 96.499794 4.467859 96.6359 4.388539</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="17" name="Great Sumatra Fault Seg 8 - Seulimeum" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.356">
+        <occurRates>0.00016361651246 0.00024408715423 0.000310295587419 0.000336139197008 0.000310295587419 0.00024408715423 0.00016361651246</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>95.92704 5.004757 95.93029 5.047693 95.860305 5.196992 95.73108 5.295422 95.56933 5.500392 95.3209 5.891477</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <simpleFaultSource id="18" name="Great Sumatera Fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>104.75337 -6.713941 104.834854 -6.419172 104.84204 -6.203487 104.83246 -6.107628 104.74601 -5.9 104.64553 -5.721793 104.32527 -5.31518 104.31767 -5.232101 104.21378 -5.091235 104.04488 -4.951804 104.00182 -4.894613 103.61108 -4.543905 103.51807 -4.488598 103.43369 -4.401579 103.2501 -4.331728 103.14065 -4.250334 103.03143 -4.126929 102.6923 -3.801898 102.47847 -3.50022 102.4543 -3.434594 102.38036 -3.355955 102.38898 -3.323064 102.39771 -3.289682 102.34335 -3.245077 102.27167 -3.1352 102.22068 -3.093715 102.00013 -2.820193 101.8892 -2.741878 101.77998 -2.621504 101.79084 -2.601837 101.75243 -2.584251 101.65154 -2.476657 101.50146 -2.290818 101.543945 -2.263701 101.58513 -2.231424 101.30405 -1.899778 101.17098 -1.702897 101.18077 -1.685414 101.1768 -1.650953 100.88968 -1.236484 100.81638 -1.156692 100.72853 -0.999921 100.52821 -0.599994 100.21146 -0.096946 100.2258 -0.048636 100.23428 0.022474 100.10793 0.284784 100.11024 0.397804 100.05756 0.575256 99.985374 0.704888 99.7739 0.922441 99.65482 1.078532 99.49942 1.2174 99.27382 1.5632 99.15463 1.714492 98.978836 2.027931 98.866424 2.182985 98.24556 2.890065 98.08633 3.107125 97.93303 3.254578 97.8595 3.400014 97.74073 3.634925 97.549 3.819142 97.393615 3.890242 97.31013 3.964467 97.08314 4.08201 96.869255 4.249629 96.84227 4.279514 96.844573 4.308815 96.80359 4.34623 96.738235 4.37307 96.67129 4.371481 96.6359 4.388539 96.499794 4.467859 96.4443 4.529559 96.37694 4.568221 96.13009 4.822076 95.92704 5.004757 95.93029 5.047693 95.860305 5.196992 95.73108 5.295422 95.56933 5.500392 95.3209 5.891477</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="6.55">
+        <occurRates>0.0141877003909 0.0112696910063 0.00895183376291 0.00711069431044 0.00564822525927 0.00448654479952 0.00356378921062 0.0028308183926 0.00224859897662 0.0017861256557 0.00141877003909 0.00112696910063 0.000895183376291 0.000711069431044</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <characteristicFaultSource id="19" name="0 1,Thoen fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.286">
+        <occurRates>3.69498827537e-06 5.51227476669e-06 7.0074746135e-06 7.59110662586e-06 7.0074746135e-06 5.51227476669e-06 3.69498827537e-06</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>99.81272 18.26392 99.74847 18.17707 99.69968 18.10844 99.58109 18.04114 99.57042 18.01505 99.45937 17.9308 99.35471 17.78529 99.30668 17.66522 99.20238 17.52629</gml:posList>
+          </gml:LineString>
+          <dip>50.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="20" name="0 2,Long fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.026">
+        <occurRates>3.35973114e-06 5.01212989208e-06 6.37166586661e-06 6.90234323284e-06 6.37166586661e-06 5.01212989208e-06 3.35973114e-06</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>99.47674 17.82028 99.57576 17.90744 99.63505 17.97385 99.72577 18.02958 99.83131 18.11615 99.92322 18.19501</gml:posList>
+          </gml:LineString>
+          <dip>50.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="21" name="0 3,Phrae fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.096">
+        <occurRates>1.83163684589e-06 2.7324810838e-06 3.47366425606e-06 3.76297556603e-06 3.47366425606e-06 2.7324810838e-06 1.83163684589e-06</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>99.98878 17.97571 100.04708 18.04769 100.09526 18.13038 100.13096 18.26065 100.13572 18.36446 100.13869 18.49235 100.15059 18.59764</gml:posList>
+          </gml:LineString>
+          <dip>50.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="22" name="0 4,Phrae Basin fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.036">
+        <occurRates>3.31222427916e-06 4.94125798378e-06 6.2815700134e-06 6.80474356021e-06 6.2815700134e-06 4.94125798378e-06 3.31222427916e-06</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>100.32136 18.41597 100.35351 18.36261 100.33049 18.24248 100.20234 18.07952 100.16308 18.05572 100.05786 17.94561</gml:posList>
+          </gml:LineString>
+          <dip>50.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="23" name="0 6,Nam Pat fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="6.766">
+        <occurRates>4.94675087763e-06 7.37968513232e-06 9.38141845411e-06 1.01627692878e-05 9.38141845411e-06 7.37968513232e-06 4.94675087763e-06</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>100.76081 17.7621 100.79888 17.80374 100.81078 17.86204 100.86819 17.95751 100.88782 18.01343 100.93094 18.05358</gml:posList>
+          </gml:LineString>
+          <dip>50.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="24" name="0 7,Pua fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.146">
+        <occurRates>1.68737018339e-05 2.51726051364e-05 3.2000652891e-05 3.4665893434e-05 3.2000652891e-05 2.51726051364e-05 1.68737018339e-05</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>100.92702 19.54045 100.93178 19.52379 100.90322 19.47977 100.89728 19.36318 100.90798 19.34295 100.91512 19.27395 100.94486 19.23231 100.95081 19.1871 100.95914 19.15022 100.95081 19.10382 100.93535 19.06099 100.94367 18.99079 100.96271 18.91465 101.01268 18.86587</gml:posList>
+          </gml:LineString>
+          <dip>50.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="25" name="0 8,Phayao fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="6.656">
+        <occurRates>5.78487015686e-06 8.63001217265e-06 1.09708956417e-05 1.18846293695e-05 1.09708956417e-05 8.63001217265e-06 5.78487015686e-06</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>99.88541 19.0241 99.86994 19.05028 99.82949 19.08954 99.81997 19.16568 99.80808 19.27633</gml:posList>
+          </gml:LineString>
+          <dip>50.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="26" name="0 9,Mae Chan fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.356">
+        <occurRates>1.07592607383e-05 1.60509308978e-05 2.04047322657e-05 2.21041825828e-05 2.04047322657e-05 1.60509308978e-05 1.07592607383e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>99.11016 19.94885 99.3576 20.05608 99.47301 20.07749 99.58127 20.112 99.77687 20.10724 100.016 20.17267 100.19922 20.27142 100.32711 20.3363 100.4681 20.42489</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="27" name="0 10,Sagaing fault zone" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.756">
+        <occurRates>0.000416149712766 0.000620822419421 0.00078921997319 0.000854951790507 0.00078921997319 0.000620822419421 0.000416149712766</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>96.02135 24.79596 96.02665 22.31824 96.12602 21.0265 96.31055 19.99026 96.4255 18.41181 96.59728 16.52935</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="28" name="0 11,Three Pagodas fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.356">
+        <occurRates>2.12117368243e-05 3.16441928743e-05 4.02276533041e-05 4.35780965872e-05 4.02276533041e-05 3.16441928743e-05 2.12117368243e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>97.57632 16.08239 97.67149 16.00744 97.71432 15.97056 97.82735 15.83493 97.97963 15.68383 98.15096 15.53393 98.41948 15.25731 98.46873 15.19009 98.62816 14.55835 98.8266 14.44056 98.96699 14.32159 99.09191 14.16574 99.77178 13.52763</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="29" name="0 12,Mae Kuang fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="6.716">
+        <occurRates>1.33342402823e-05 1.98923489774e-05 2.52881317354e-05 2.73943060747e-05 2.52881317354e-05 1.98923489774e-05 1.33342402823e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>99.23601 18.96262 99.37367 19.06689 99.50715 19.12688</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="30" name="0 13,Red River fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.756">
+        <occurRates>0.000111472797424 0.000166297872313 0.000211406028878 0.000229013417112 0.000211406028878 0.000166297872313 0.000111472797424</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>100.28237 25.62676 100.71068 25.08201 101.09746 24.66908 101.60918 24.01484 101.85656 23.6896 102.20566 23.44975 102.6458 23.30471 103.1864 23.08998 103.4049 22.99077 103.67238 22.77604 105.23455 21.36151 106.56751 20.28902</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="31" name="0 16,Moei fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.356">
+        <occurRates>8.13297831506e-06 1.21329779158e-05 1.54240378663e-05 1.67086607519e-05 1.54240378663e-05 1.21329779158e-05 8.13297831506e-06</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>99.29781 16.37091 99.18763 16.5846 98.71957 17.08505 98.48118 17.19184 98.3249 17.31075 98.07916 17.59613 97.96262 17.89012</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="32" name="0 42,Mae Yom fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="6.596">
+        <occurRates>2.9562099576e-05 4.41014702617e-05 5.60639565981e-05 6.07333591454e-05 5.60639565981e-05 4.41014702617e-05 2.9562099576e-05</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>100.32256 18.80605 100.14966 18.62926</gml:posList>
+          </gml:LineString>
+          <dip>50.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="33" name="0 44,Sri Sawat fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.356">
+        <occurRates>1.24833136439e-05 1.86229156024e-05 2.36743656361e-05 2.5646134129e-05 2.36743656361e-05 1.86229156024e-05 1.24833136439e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>99.47923 14.42182 99.0832 15.08295 98.84199 15.4125 98.60417 15.88474 98.52273 16.04988</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="34" name="0 45,Ranong fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.356">
+        <occurRates>5.22115478497e-06 7.78904765843e-06 9.9018202176e-06 1.07265137882e-05 9.9018202176e-06 7.78904765843e-06 5.22115478497e-06</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>97.81626 7.30195 98.60423 9.96307 98.81986 10.54194 99.24586 11.0712 99.58772 11.61817</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <characteristicFaultSource id="35" name="0 46,Khlong Marui fault" tectonicRegion="Active Shallow Crust">
+      <incrementalMFD binWidth="0.048" minMag="7.356">
+        <occurRates>3.47277771888e-07 5.18077557044e-07 6.58605654193e-07 7.13458987884e-07 6.58605654193e-07 5.18077557044e-07 3.47277771888e-07</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+      <surface>
+        <simpleFaultGeometry>
+          <gml:LineString>
+            <gml:posList>98.17157 6.5592 98.6514 8.50693 98.82979 8.94116 99.22916 9.46571</gml:posList>
+          </gml:LineString>
+          <dip>90.0</dip>
+          <upperSeismoDepth>0.0</upperSeismoDepth>
+          <lowerSeismoDepth>15.0</lowerSeismoDepth>
+        </simpleFaultGeometry>
+      </surface>
+    </characteristicFaultSource>
+    <simpleFaultSource id="36" name="0 1,Thoen fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>99.81272 18.26392 99.74847 18.17707 99.69968 18.10844 99.58109 18.04114 99.57042 18.01505 99.45937 17.9308 99.35471 17.78529 99.30668 17.66522 99.20238 17.52629</gml:posList>
+        </gml:LineString>
+        <dip>50.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1162" minMag="6.5581">
+        <occurRates>6.33578766906e-05 4.84786630539e-05 3.70937426291e-05 2.83825018175e-05 2.1717043154e-05 1.66169270907e-05 1.27145423978e-05 9.7286091167e-06</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="37" name="0 2,Long fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>99.47674 17.82028 99.57576 17.90744 99.63505 17.97385 99.72577 18.02958 99.83131 18.11615 99.92322 18.19501</gml:posList>
+        </gml:LineString>
+        <dip>50.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1117" minMag="6.5558">
+        <occurRates>3.73709522568e-05 2.88979798783e-05 2.23460519633e-05 1.72796174836e-05 1.33618762218e-05 1.03323893794e-05</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="38" name="0 3,Phrae fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>99.98878 17.97571 100.04708 18.04769 100.09526 18.13038 100.13096 18.26065 100.13572 18.36446 100.13869 18.49235 100.15059 18.59764</gml:posList>
+        </gml:LineString>
+        <dip>50.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.0925" minMag="6.5462">
+        <occurRates>1.90010508121e-05 1.53559839434e-05 1.24101685323e-05 1.0029463665e-05 8.10546135177e-06 6.55055005128e-06 5.29392518353e-06 4.27836496621e-06</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="39" name="0 4,Phrae Basin fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>100.32136 18.41597 100.35351 18.36261 100.33049 18.24248 100.20234 18.07952 100.16308 18.05572 100.05786 17.94561</gml:posList>
+        </gml:LineString>
+        <dip>50.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1133" minMag="6.5567">
+        <occurRates>3.78184346866e-05 2.91319958447e-05 2.24407273577e-05 1.72863626312e-05 1.33158933868e-05 1.02573930949e-05</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="40" name="0 6,Nam Pat fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>100.76081 17.7621 100.79888 17.80374 100.81078 17.86204 100.86819 17.95751 100.88782 18.01343 100.93094 18.05358</gml:posList>
+        </gml:LineString>
+        <dip>50.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1025" minMag="6.5512">
+        <occurRates>4.00744180475e-05 3.16495299467e-05 2.49958151523e-05 1.97409179908e-05</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="41" name="0 7,Pua fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>100.92702 19.54045 100.93178 19.52379 100.90322 19.47977 100.89728 19.36318 100.90798 19.34295 100.91512 19.27395 100.94486 19.23231 100.95081 19.1871 100.95914 19.15022 100.95081 19.10382 100.93535 19.06099 100.94367 18.99079 100.96271 18.91465 101.01268 18.86587</gml:posList>
+        </gml:LineString>
+        <dip>50.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.0987" minMag="6.5494">
+        <occurRates>0.000199866959995 0.000159217577502 0.000126835555943 0.000101039461244 8.04898330956e-05 6.41196335769e-05 5.10788412886e-05 4.06903140558e-05</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="42" name="0 8,Phayao fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>99.88541 19.0241 99.86994 19.05028 99.82949 19.08954 99.81997 19.16568 99.80808 19.27633</gml:posList>
+        </gml:LineString>
+        <dip>50.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.075" minMag="6.5375">
+        <occurRates>3.5386799008e-05 2.97742773358e-05 2.50519294121e-05 2.10785692694e-05</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="43" name="0 9,Mae Chan fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>99.11016 19.94885 99.3576 20.05608 99.47301 20.07749 99.58127 20.112 99.77687 20.10724 100.016 20.17267 100.19922 20.27142 100.32711 20.3363 100.4681 20.42489</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.125" minMag="6.5625">
+        <occurRates>0.000221804475183 0.000166329891544 0.000124729822507 9.35341716294e-05 7.01407336796e-05 5.25981300246e-05 3.94430331272e-05 2.95781021406e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="44" name="0 10,Sagaing fault zone" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>96.02135 24.79596 96.02665 22.31824 96.12602 21.0265 96.31055 19.99026 96.4255 18.41181 96.59728 16.52935</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.175" minMag="6.5875">
+        <occurRates>0.0243495533548 0.0162738755055 0.0108765454589 0.00726927283424 0.00485837417204 0.00324706475239 0.00217015592724 0.00145041048075</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="45" name="0 11,Three Pagodas fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>97.57632 16.08239 97.67149 16.00744 97.71432 15.97056 97.82735 15.83493 97.97963 15.68383 98.15096 15.53393 98.41948 15.25731 98.46873 15.19009 98.62816 14.55835 98.8266 14.44056 98.96699 14.32159 99.09191 14.16574 99.77178 13.52763</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.125" minMag="6.5625">
+        <occurRates>0.000437284520877 0.000327917130036 0.000245903156955 0.000184401353457 0.000138281507151 0.00010369650147 7.77614059804e-05 5.83128280543e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="46" name="0 12,Mae Kuang fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>99.23601 18.96262 99.37367 19.06689 99.50715 19.12688</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.09" minMag="6.545">
+        <occurRates>9.5088432735e-05 7.72907745222e-05 6.28242958098e-05 5.10655012633e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="47" name="0 13,Red River fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>100.28237 25.62676 100.71068 25.08201 101.09746 24.66908 101.60918 24.01484 101.85656 23.6896 102.20566 23.44975 102.6458 23.30471 103.1864 23.08998 103.4049 22.99077 103.67238 22.77604 105.23455 21.36151 106.56751 20.28902</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.175" minMag="6.5875">
+        <occurRates>0.00652244460505 0.00435923607909 0.00291346885162 0.00194719914117 0.00130139867233 0.000869781866955 0.000581313407006 0.000388517270827</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="48" name="0 16,Moei fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>99.29781 16.37091 99.18763 16.5846 98.71957 17.08505 98.48118 17.19184 98.3249 17.31075 98.07916 17.59613 97.96262 17.89012</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.125" minMag="6.5625">
+        <occurRates>0.000167663143458 0.000125729620398 9.42839142779e-05 7.07029613502e-05 5.30197412992e-05 3.97591969806e-05 2.98151915834e-05 2.23582395185e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="49" name="0 42,Mae Yom fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>100.32256 18.80605 100.14966 18.62926</gml:posList>
+        </gml:LineString>
+        <dip>50.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.000008166</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.12" minMag="6.56">
+        <occurRates>0.000289600469655 0.00021968448017</occurRates>
+      </incrementalMFD>
+      <rake>-90.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="50" name="0 44,Sri Sawat fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>99.47923 14.42182 99.0832 15.08295 98.84199 15.4125 98.60417 15.88474 98.52273 16.04988</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.125" minMag="6.5625">
+        <occurRates>0.000257346226392 0.000192982444965 0.000144716417982 0.00010852200384 8.13800222648e-05 6.10264074517e-05 4.57633495644e-05 3.4317670838e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="51" name="0 45,Ranong fault" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>97.81626 7.30195 98.60423 9.96307 98.81986 10.54194 99.24586 11.0712 99.58772 11.61817</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.125" minMag="6.5625">
+        <occurRates>0.000107635220374 8.0715028479e-05 6.05277324625e-05 4.53893960777e-05 3.40372452837e-05 2.55243331399e-05 1.91405496187e-05 1.43533873225e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="52" name="0 46,Khlong Marui fault this one has Mmax fixed at 7.5" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>98.17157 6.5592 98.6514 8.50693 98.82979 8.94116 99.22916 9.46571</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.125" minMag="6.5625">
+        <occurRates>7.15920674656e-06 5.36864768266e-06 4.02591780917e-06 3.01901245235e-06 2.26393995592e-06 1.69771546322e-06 1.27310699496e-06 9.54695563382e-07</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="53" name="Great Sumatra Fault Seg 1" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>104.77294 -5.788603 104.36417 -5.215181</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="6.8">
+        <occurRates>3.99620549776e-05 0.000160557755547 0.000322122732 0.000322714195052 0.00016144380094 4.03302847633e-05 5.03092465188e-06</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="54" name="Great Sumatra Fault Seg 2" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>104.36417 -5.215181 104.103 -4.908598</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="6.5">
+        <occurRates>6.44082668478e-05 0.00025877665124 0.000519176676276 0.000520129958336 0.000260204722147 6.50017559041e-05 8.10852038644e-06</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="55" name="Great Sumatra Fault Seg 3" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>104.103 -4.908598 103.51823 -4.414661</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="6.8">
+        <occurRates>5.78951139363e-05 0.00023260839704 0.000466676007555 0.000467532890936 0.000233892057227 5.8428587638e-05 7.28856301531e-06</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="56" name="Great Sumatra Fault Seg 4" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>103.51823 -4.414661 102.58144 -3.506269</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="7.0">
+        <occurRates>6.18739743505e-05 0.000248594484294 0.000498748466981 0.000499664239949 0.000249966364442 6.24441112046e-05 7.78947186385e-06</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="57" name="Great Sumatra Fault Seg 5" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>102.58144 -3.506269 102.07047 -2.864718</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="6.8">
+        <occurRates>8.54095262546e-05 0.000343154571142 0.000688461840899 0.000689725954546 0.000345048285498 8.61965311161e-05 1.07524223011e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="58" name="Great Sumatra Fault Seg 6" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>102.07047 -2.864718 101.26427 -1.786002</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="7.1">
+        <occurRates>5.88236424184e-05 0.000236338997209 0.000474160610926 0.000475031237101 0.000237643244885 5.93656720325e-05 7.40545782548e-06</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="59" name="Great Sumatra Fault Seg 7" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>101.26427 -1.786002 100.81008 -1.064967</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="6.9">
+        <occurRates>8.5712806003e-05 0.000344373074938 0.000690906492486 0.00069217509486 0.000346273513664 8.65026054315e-05 1.07906029593e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="60" name="Great Sumatra Fault Seg 8" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>100.81008 -1.064967 100.25937 -0.031671</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="7.0">
+        <occurRates>9.44996745753e-05 0.000379676562135 0.000761734934913 0.000763133588359 0.000381771824786 9.53704404789e-05 1.18968041729e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="61" name="Great Sumatra Fault Seg 9" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>100.25937 -0.031671 100.0266 0.405493</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="6.6">
+        <occurRates>0.000159132913052 0.000639357094314 0.00128272504335 0.00128508030857 0.00064288541598 0.00016059924101 2.00336468094e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="62" name="Great Sumatra Fault Seg 10" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>100.0266 0.405493 99.43046 1.240078</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="6.9">
+        <occurRates>0.000158188793221 0.000635563851921 0.00127511476256 0.00127745605423 0.000639071240404 0.0001596464216 1.99147891647e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="63" name="Great Sumatra Fault Seg 11" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>99.43046 1.240078 99.03872 1.949758</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="6.8">
+        <occurRates>0.000176593743483 0.000709510437166 0.00142347181937 0.00142608551565 0.000713425903297 0.000178220964013 2.22318351234e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="64" name="Great Sumatra Fault Seg 12" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>99.03872 1.949758 97.95432 3.249894</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="7.2">
+        <occurRates>9.26127143486e-05 0.000372095217808 0.000746524686497 0.000747895411769 0.00037414864246 9.34660928841e-05 1.16592499549e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="65" name="Great Sumatra Fault Seg 13" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>97.95432 3.249894 97.301414 3.857381</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="6.9">
+        <occurRates>0.000137412617693 0.000552090263954 0.00110764393492 0.00110967772638 0.000555136999585 0.000138678804299 1.72992236315e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="66" name="Great Sumatra Fault Seg 14" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>97.301414 3.857381 97.0289 4.022027</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="6.4">
+        <occurRates>0.000275679081382 0.00110761107212 0.00222217047897 0.00222625069934 0.001113723475 0.000278219322345 3.47059401052e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="67" name="Great Sumatra Fault Seg 15" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>97.0289 4.022027 96.60877 4.385384</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="6.7">
+        <occurRates>0.000170679873752 0.000685749956103 0.00137580180152 0.00137832796888 0.000689534298921 0.000172252601014 2.14873230348e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="68" name="Great Sumatra Fault Seg 16" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>96.60877 4.385384 95.2916 5.571971</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="7.2">
+        <occurRates>2.52569272296e-05 0.000101476151571 0.000203588889653 0.000203962707748 0.000102036152402 2.54896568254e-05 3.17965875132e-06</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <simpleFaultSource id="69" name="Great Sumatera Fault char floater 7.9" tectonicRegion="Active Shallow Crust">
+      <simpleFaultGeometry>
+        <gml:LineString>
+          <gml:posList>104.75337 -6.713941 104.834854 -6.419172 104.84204 -6.203487 104.83246 -6.107628 104.74601 -5.9 104.64553 -5.721793 104.32527 -5.31518 104.31767 -5.232101 104.21378 -5.091235 104.04488 -4.951804 104.00182 -4.894613 103.61108 -4.543905 103.51807 -4.488598 103.43369 -4.401579 103.2501 -4.331728 103.14065 -4.250334 103.03143 -4.126929 102.6923 -3.801898 102.47847 -3.50022 102.4543 -3.434594 102.38036 -3.355955 102.38898 -3.323064 102.39771 -3.289682 102.34335 -3.245077 102.27167 -3.1352 102.22068 -3.093715 102.00013 -2.820193 101.8892 -2.741878 101.77998 -2.621504 101.79084 -2.601837 101.75243 -2.584251 101.65154 -2.476657 101.50146 -2.290818 101.543945 -2.263701 101.58513 -2.231424 101.30405 -1.899778 101.17098 -1.702897 101.18077 -1.685414 101.1768 -1.650953 100.88968 -1.236484 100.81638 -1.156692 100.72853 -0.999921 100.52821 -0.599994 100.21146 -0.096946 100.2258 -0.048636 100.23428 0.022474 100.10793 0.284784 100.11024 0.397804 100.05756 0.575256 99.985374 0.704888 99.7739 0.922441 99.65482 1.078532 99.49942 1.2174 99.27382 1.5632 99.15463 1.714492 98.978836 2.027931 98.866424 2.182985 98.24556 2.890065 98.08633 3.107125 97.93303 3.254578 97.8595 3.400014 97.74073 3.634925 97.549 3.819142 97.393615 3.890242 97.31013 3.964467 97.08314 4.08201 96.869255 4.249629 96.84227 4.279514 96.844573 4.308815 96.80359 4.34623 96.738235 4.37307 96.67129 4.371481 96.6359 4.388539 96.499794 4.467859 96.4443 4.529559 96.37694 4.568221 96.13009 4.822076 95.92704 5.004757 95.93029 5.047693 95.860305 5.196992 95.73108 5.295422 95.56933 5.500392 95.3209 5.891477</gml:posList>
+        </gml:LineString>
+        <dip>90.0</dip>
+        <upperSeismoDepth>0.0</upperSeismoDepth>
+        <lowerSeismoDepth>15.0</lowerSeismoDepth>
+      </simpleFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="7.6">
+        <occurRates>0.000167262010586 0.000672017818477 0.00134825138096 0.00135072696184 0.000675726379859 0.000168803243997 2.10570395554e-05</occurRates>
+      </incrementalMFD>
+      <rake>0.0</rake>
+    </simpleFaultSource>
+    <complexFaultSource id="70" name="Sumatra Interface, GR, exclude Java-Sumba. Also excl. burma plate" tectonicRegion="Subduction Interface">
+      <complexFaultGeometry>
+        <faultTopEdge>
+          <gml:LineString>
+            <gml:posList>92.7 14.9 5.0 92.14833959 13.66770451 5.0 91.56807859 10.30064251 5.0 93.22699759 3.716000503 5.0 96.0882512 1.4869995 5.0 102.4520036 -7.197 5.0 104.0 -7.978 5.0</gml:posList>
+          </gml:LineString>
+        </faultTopEdge>
+        <faultBottomEdge>
+          <gml:LineString>
+            <gml:posList>93.5428 14.0 50.0 93.31859165 13.42208668 50.0 92.89230113 10.43153688 50.0 94.61522532 4.691394861 50.0 96.87101265 2.728670788 50.0 103.4785157 -5.594179503 50.0 105.0 -6.4801 50.0</gml:posList>
+          </gml:LineString>
+        </faultBottomEdge>
+      </complexFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="7.1">
+        <occurRates>0.00564734387682 0.00452110125358 0.00361946376757 0.00289763870127 0.00231976629199 0.00185713824401 0.0014867715206 0.00119026656286 0.000952893212601 0.000762858928372 0.000610722940305 0.000488927239288 0.000391421100374 0.000313360487014 0.000250867402723 0.000200837234933 0.00016078452002 0.000128719467217 0.000103049107207 8.24981545192e-05 6.60456522483e-05</occurRates>
+      </incrementalMFD>
+      <rake>90.0</rake>
+    </complexFaultSource>
+    <complexFaultSource id="71" name="Sumatra Megathrust, southern Sumatra only, 333 yr recur" tectonicRegion="Subduction Interface">
+      <complexFaultGeometry>
+        <faultTopEdge>
+          <gml:LineString>
+            <gml:posList>96.0882512 1.4869995 5.0 102.4520036 -7.197 5.0 104.0 -7.978 5.0</gml:posList>
+          </gml:LineString>
+        </faultTopEdge>
+        <faultBottomEdge>
+          <gml:LineString>
+            <gml:posList>96.87101265 2.728670788 50.0 103.4785157 -5.594179503 50.0 105.0 -6.4801 50.0</gml:posList>
+          </gml:LineString>
+        </faultBottomEdge>
+      </complexFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="9.2">
+        <occurRates>0.00220864458029</occurRates>
+      </incrementalMFD>
+      <rake>90.0</rake>
+    </complexFaultSource>
+    <complexFaultSource id="72" name="1 Java-Sumba GR 104 years for M7.7 or greater" tectonicRegion="Subduction Interface">
+      <complexFaultGeometry>
+        <faultTopEdge>
+          <gml:LineString>
+            <gml:posList>104.0 -7.978 5.0 108.363 -10.178 5.0 110.0 -10.3 5.0 120.886 -11.493 5.0</gml:posList>
+          </gml:LineString>
+        </faultTopEdge>
+        <faultBottomEdge>
+          <gml:LineString>
+            <gml:posList>105.0 -6.4801 50.0 108.718 -8.645 50.0 110.0 -9.3 50.0 120.974 -9.81 50.0</gml:posList>
+          </gml:LineString>
+        </faultBottomEdge>
+      </complexFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="7.1">
+        <occurRates>0.00659820544634 0.00512537721524 0.0039813085258 0.00309261482852 0.00240229221513 0.00186606098945 0.00144952541344 0.00112596744484 0.000874632948886 0.000679400455832 0.000527747073756 0.000409945226658 0.000318438693868 0.000247357927739 0.00019214356042 0.000149253950129 0.000115938007917 9.00587332407e-05 6.99561393077e-05 5.43407757442e-05 4.22110187569e-05 3.27888234958e-05</occurRates>
+      </incrementalMFD>
+      <rake>90.0</rake>
+    </complexFaultSource>
+    <complexFaultSource id="73" name="N Sumatra Megathrust, exclude S Sumatra and Java-Sumba" tectonicRegion="Subduction Interface">
+      <complexFaultGeometry>
+        <faultTopEdge>
+          <gml:LineString>
+            <gml:posList>92.1875 20.3615 5.0 93.68470752 17.42919239 5.0 92.14833959 13.66770451 5.0 91.56807859 10.30064251 5.0 93.22699759 3.716000503 5.0 96.0882512 1.4869995 5.0</gml:posList>
+          </gml:LineString>
+        </faultTopEdge>
+        <faultBottomEdge>
+          <gml:LineString>
+            <gml:posList>92.75 21.1325 50.0 94.59746321 17.094216 50.0 93.31859165 13.42208668 50.0 92.89230113 10.43153688 50.0 94.61522532 4.691394861 50.0 96.87101265 2.728670788 50.0</gml:posList>
+          </gml:LineString>
+        </faultBottomEdge>
+      </complexFaultGeometry>
+      <magScaleRel>WC1994</magScaleRel>
+      <ruptAspectRatio>2</ruptAspectRatio>
+      <incrementalMFD binWidth="0.1" minMag="9.2">
+        <occurRates>0.000667</occurRates>
+      </incrementalMFD>
+      <rake>90.0</rake>
+    </complexFaultSource>
+  </sourceModel>
+</nrml>
